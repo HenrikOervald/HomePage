@@ -7,7 +7,8 @@
 }
 
 .profile-normal {
-	margin:100px;
+	margin:10px;
+	margin-left: 10px;
 	background: #F5F5DC;
 	border-radius: 8px;
 }
