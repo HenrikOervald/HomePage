@@ -1,0 +1,24 @@
+.profile h2{
+	text-align:center;
+}
+
+.profile p{
+	text-align: center;
+}
+
+.profile-normal {
+	margin:100px;
+	background: #F5F5DC;
+	border-radius: 8px;
+}
+
+
+.profile img{
+	display: block;
+	height: 100px;
+	width: 100px;
+	border-radius: 70px;
+	margin:auto;
+	
+	
+}
